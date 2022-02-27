@@ -2,12 +2,10 @@
 vue3-component
 
 #0-1. 전역 component 사용하는 예제
-<pre>
-<code>
+```
 <hr>  
 <test-0-a></test-0-a>
-</code>
-</pre>
+```
 
 ### <!-- #0-2. 지역 component 사용하는 예제 -->
 <hr>  
