@@ -1,9 +1,9 @@
 # vue3-component
 vue3-component
 
+#0-1. 전역 component 사용하는 예제
 <pre>
 <code>
-#0-1. 전역 component 사용하는 예제
 <hr>  
 <test-0-a></test-0-a>
 </code>
